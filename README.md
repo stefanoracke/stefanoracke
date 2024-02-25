@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Stefano</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working at **[Chimpancé Digital](.https://chimpance.digital/)**
+- 🔭 I’m currently working at <a href="https://chimpance.digital/">Chimpancé Digital 🙉</a>
+- <
 
 - 🌱 I’m currently learning **Backend Developer**
 
