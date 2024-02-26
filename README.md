@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at <a href="https://chimpance.digital/">Chimpancé Digital 🙉</a>
 
-- 🌱 I’m currently learning **Backend Developer**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **stefanoracke@gmail.com**
 
