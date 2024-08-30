@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at <a href="https://chimpance.digital/">Chimpancé Digital 🙉</a>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **stefanoracke@gmail.com**
 
@@ -35,7 +35,7 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Backend (I'm still learning):</h3>
+<h3 align="left">Backend:</h3>
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
