@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stefano</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working at <a href="https://chimpance.digital/">Chimpancé Digital 🙉</a>
+- 🔭 I’m currently working at <a href="https://eldars.com.ar/">Eldar</a>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **NestJS**
 
 - 📫 How to reach me **stefanoracke@gmail.com**
 
@@ -39,8 +39,8 @@
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-   
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" alt="nestjs" width="40" height="40"/> </a>
+
 </p>
 
 <h3 align="left">Data bases:</h3>
